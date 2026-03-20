@@ -7,7 +7,7 @@ Designed for sketch-to-render generation and deployed/tested in a RunPod environ
 
 Comparison:
 
-![Comparison](examples/example1.jpg)
+![Comparison](examples/example.jpg)
 
 
 ## Overview
