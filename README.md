@@ -1,7 +1,14 @@
 # ComfyUI FLUX Interior Pipeline on RunPod
 
 A ComfyUI-based interior rendering pipeline built with FLUX, ControlNet Canny guidance, optional LoRA support, and upscaling.  
-Designed for sketch-to-render generation and deployed/tested in a RunPod environment.
+Designed for sketch-to-render generation and deployed/tested in a RunPod environment.c
+
+## Example
+
+Comparison:
+
+![Comparison](examples/example1.jpg)
+
 
 ## Overview
 
